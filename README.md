@@ -8,6 +8,12 @@ Replace this text with a brief introduction to the problem space.
 * **Full Name 2** - Summary of contributions
 * **Full Name 3** - Summary of contributions
 
+# User-Centered Design Artifacts
+
+* [Personas and Scenarios](personas-scenarios.md)
+* [Wireframes](#)
+* [Prototype](#)
+
 # Phase 1: Requirements Gathering
 
 * Executive Summary of methods,
